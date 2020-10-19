@@ -131,7 +131,7 @@ class _LinkedInAuthorizationState extends State<LinkedInAuthorization> {
       );
     } else {
       return LinkedInTokenObject(
-          error: LinkedInErrorObject(
+          error:  LinkedInErrorObject(
         description: 'Failed to get token',
         statusCode: response.statusCode,
       ));

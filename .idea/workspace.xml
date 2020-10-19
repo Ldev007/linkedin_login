@@ -10,13 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e4a147-a5e7-4e77-8118-2843b2dca34c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/constants.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/linked_in_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/linked_in_profile.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/linked_in_authorization_webview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/linked_in_authorization_webview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedin_login.iml" beforeDir="false" afterPath="$PROJECT_DIR$/linkedin_login.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,11 @@
   </component>
   <component name="ProjectId" id="1cWtgFOH7kjD8321tp6YPOWC4Uv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
@@ -52,18 +59,6 @@
       <recent name="C:\Users\ndelic\StudioProjects\flutterLib\linkedin_login\images" />
       <recent name="C:\Users\ndelic\StudioProjects\flutterLib\linkedin_login\assets" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
@@ -170,6 +165,32 @@
     <MESSAGE value="Try fix for Travis" />
     <MESSAGE value="Fix issues for v3" />
     <option name="LAST_COMMIT_MESSAGE" value="Fix issues for v3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1730" height="469" key="GridCell.Tab.0.bottom" timestamp="1603117703886">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1730" height="469" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1603117703886" />
+    <state width="1730" height="469" key="GridCell.Tab.0.center" timestamp="1603117703885">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1730" height="469" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1603117703885" />
+    <state width="1730" height="469" key="GridCell.Tab.0.left" timestamp="1603117703885">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1730" height="469" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1603117703885" />
+    <state width="1730" height="469" key="GridCell.Tab.0.right" timestamp="1603117703885">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1730" height="469" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1603117703885" />
+    <state x="420" y="174" width="1359" height="730" key="find.popup" timestamp="1603117973966">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="420" y="174" width="1359" height="730" key="find.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1603117973966" />
+    <state x="393" y="23" width="1005" height="1033" key="search.everywhere.popup" timestamp="1603118106965">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="393" y="23" width="1005" height="1033" key="search.everywhere.popup/0.23.1792.1033@0.23.1792.1033" timestamp="1603118106965" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
